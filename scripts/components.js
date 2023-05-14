@@ -1,7 +1,7 @@
 
 Vue.component("credits",{
   props: [],
-  template: `<div>Contributors:<br>__________________________________________________<br><br>gapples2 - ideas and most of the code<br>unpingabot - saving and loading<br>TheMKeyHolder - making code better, achs system, and offline progress<br>unp©gged™ - Some HTML and CSS <br>MEME - Making some of the upgrades and buyables<br>Semenar - various fixes<br>Jayman - Some grammatical and visual changes/alot of achievement work<br>Emi - Some Achievement Work<br>Cubedey- Style creation and some achievement work</div>`
+  template: `<div>Contributors:<br>__________________________________________________<br><br><a href="https://galaxy.click/user/36">gapples2</a> - ideas and most of the code (link is to galaxy account for verification)<br>unpingabot - saving and loading<br>TheMKeyHolder - making code better, achs system, and offline progress<br>unp©gged™ - Some HTML and CSS <br>MEME - Making some of the upgrades and buyables<br>Semenar - various fixes<br>Jayman - Some grammatical and visual changes/alot of achievement work<br>Emi - Some Achievement Work<br>Cubedey- Style creation and some achievement work</div>`
 })
 Vue.component("upgrade",{
   props: ["layer","upgid"],
